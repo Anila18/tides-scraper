@@ -2,7 +2,7 @@
 
 A Python script for scraping daylight low-tides from https://www.tide-forecast.com/ 
 
-#Installation steps
+# Installation steps
 
 1. git clone https://github.com/Anila18/tides-scraper.git
 Setup:
@@ -13,12 +13,12 @@ pip install -r requirements.txt
 
 ```
 
-#Running Script
+# Running Script
 
 ```
 python scraper.py
 ```
-#Output
+# Output
 
 The output is returned to file output.json
 
