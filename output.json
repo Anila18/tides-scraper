@@ -1,0 +1,28 @@
+{
+  "Half Moon Bay, California": [
+    {
+      "2021-06-17 09:36:00": "-0.25 ft"
+    }
+  ],
+  "Huntington Beach, California": [
+    {
+      "2021-06-17 08:32:00": "1.54 ft"
+    }
+  ],
+  "Providence, Rhode Island": [
+    {
+      "2021-06-17 06:58:00": "0.3 ft"
+    },
+    {
+      "2021-06-17 19:26:00": "0.69 ft"
+    }
+  ],
+  "Wrightsville Beach, North Carolina": [
+    {
+      "2021-06-17 07:20:00": "0.24 ft"
+    },
+    {
+      "2021-06-17 19:32:00": "0.47 ft"
+    }
+  ]
+}
